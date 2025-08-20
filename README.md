@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm Damian
 
-<!--
-**DTSNRaw/DTSNRaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm taking CTS-285 Because it is useful, and fun.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Foo 🎯
+Video Games
+Collecting Video Games
+Collecting old/retro hardware
+
+
+## Currently Learning
+- 🤖 AI collaboration and prompt engineering
+- 🐙 GitHub workflows and version control
+- 💡 Building my first AI assistants
+
+## Fun Fact
+I have a CRT tv for retro games
+
+## Find Me
+- 📫 Right here on GitHub!
